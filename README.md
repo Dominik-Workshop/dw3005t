@@ -26,3 +26,8 @@ This is the second iteration of my linear power supply project [available on Git
 
 > [!WARNING]  
 > WORK IN PROGRESS
+
+## Used Tools
+
+- [KiCad](https://www.kicad.org/) -  Schematic and PCB design
+- [LTspice](https://www.analog.com/ltspice) - SPICE circuit simulation
