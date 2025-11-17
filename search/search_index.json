@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"","title":"WORK IN PROGRESS","text":""},{"location":"getting-started/","title":"Electronics","text":""},{"location":"overview/","title":"DW3005T","text":"<p>Linear power supply</p> <p></p>"}]}
